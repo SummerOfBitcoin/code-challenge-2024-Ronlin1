@@ -1,8 +1,6 @@
-# Solution.md
-
 ## Design Approach
 
-The design approach for the block construction program was centered around the core principles of blockchain technology, particularly those relevant to the creation of a valid block. The primary goal was to ensure that the program could read, validate, and process transactions to form a block that adheres to the established rules of the blockchain network.
+This is the design approach I applied for the block construction program that was centered around the core principles of blockchain technology, particularly those relevant to the creation of a valid block. The primary goal was to ensure that the program could read, validate, and process transactions to form a block that adheres to the established rules of the blockchain network.
 
 ### Key Concepts
 
@@ -63,7 +61,7 @@ The efficiency of the solution is primarily influenced by the mining process, wh
 
 ## Conclusion
 
-This exercise provided valuable insights into the intricacies of block construction and the importance of transaction validation in maintaining blockchain integrity. It also highlighted the computational demands of the mining process.
+This exercise provided me with valuable insights into the intricacies of block construction and the importance of transaction validation in maintaining blockchain integrity. It also highlighted the computational demands of the mining process.
 
 ### Potential Areas for Future Improvement
 
@@ -75,8 +73,8 @@ This exercise provided valuable insights into the intricacies of block construct
 
 During the problem-solving process, the following resources were consulted:
 
-- Satoshi Nakamoto's Bitcoin Whitepaper
-- Blockchain documentation and developer guides
-- Python's official documentation for file I/O and hashing functions
+- Getting Started — Bitcoin - https://developer.bitcoin.org/
+- Blockchain Guide Documentation - Read The Docs - https://readthedocs.org/projects/blockchain-guide/downloads/pdf/latest/
+- Python's official documentation for file I/O and hashing functions - https://docs.python.org/3/library/io.html
 
 This document serves as a high-level overview of the design and implementation choices made during the development of the block construction program.
